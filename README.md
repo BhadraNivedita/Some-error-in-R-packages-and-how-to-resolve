@@ -1,5 +1,5 @@
 # Some-error-in-R-packages-and-how-to-resolve
-This repository is a collection of error we very often encounter while running R packages. Sometimes there are a few points to be taken into account to get rid of the errors. I have noted down problems I have faced over the years.
+This repository is a collection of errors we very often encounter while running R packages. Sometimes there are a few points to be taken into account to get rid of the errors. I have noted down problems I have encountered over the years.
 
 ## boundary (singular) fit: see help('isSingular') while running glmer function.
 
